@@ -1,1 +1,1 @@
-# k-means, k-means++ and bisecting k means implementation for mall customer data
+# K-Means, K-Means++ and Bisecting K-Means Implementation for Mall Customers Data
